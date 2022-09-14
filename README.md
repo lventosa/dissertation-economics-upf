@@ -1,4 +1,4 @@
-# Dissertation for my Economics degree at Universitat Pompeu Fabra, Spring quarter 2019.
+# Thesis for my Economics degree at Universitat Pompeu Fabra, Spring quarter 2019.
 
 ## The Hilbert Projection Theorem. Some Applications in Statistical Estimation and Time Series Forecasting.
 
